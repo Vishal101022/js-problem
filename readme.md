@@ -24,6 +24,6 @@ This repository is open-source and available under the [MIT License](LICENSE). F
 
 ## Contact
 
-If you have any questions, suggestions, or feedback about this repository, please don't hesitate to [contact us](mailto:your@email.com).
+If you have any questions, suggestions, or feedback about this repository, please don't hesitate to [contact us](mailto:raivishal939@gmail.com).
 
 Happy problem-solving and coding!
