@@ -7,3 +7,4 @@ const car = {
 };
 
 console.log(car.getbrand());
+
